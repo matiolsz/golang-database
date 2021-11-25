@@ -1,0 +1,12 @@
+{
+	"Name": "alberto",
+	"Age": 23,
+	"Contact": "1233411",
+	"Company": "lucid",
+	"Address": {
+		"City": "osieck",
+		"State": "maz",
+		"Country": "pol",
+		"Pincode": 12321
+	}
+}

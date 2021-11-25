@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 23,
+	"Contact": "123321",
+	"Company": "dunder mufflin",
+	"Address": {
+		"City": "osieck",
+		"State": "maz",
+		"Country": "pol",
+		"Pincode": 12321
+	}
+}

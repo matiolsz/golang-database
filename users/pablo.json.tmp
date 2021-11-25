@@ -1,0 +1,12 @@
+{
+	"Name": "pablo",
+	"Age": 23,
+	"Contact": "122321",
+	"Company": "tesla",
+	"Address": {
+		"City": "osieck",
+		"State": "maz",
+		"Country": "pol",
+		"Pincode": 12321
+	}
+}

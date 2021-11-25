@@ -1,0 +1,12 @@
+{
+	"Name": "roberto",
+	"Age": 23,
+	"Contact": "12121",
+	"Company": "fb",
+	"Address": {
+		"City": "osieck",
+		"State": "maz",
+		"Country": "pol",
+		"Pincode": 12321
+	}
+}
